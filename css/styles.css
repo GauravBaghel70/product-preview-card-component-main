@@ -72,9 +72,10 @@ body{
     width:32rem ;
     height: 6rem;
     border-radius: 0.7rem;
+    border-color: hsl(158, 36%, 37%);
 }
 .btn:hover{
-    background-color:hsl(157, 28%, 26%) ; ;
+    background-color:hsl(157, 28%, 26%) ;
 }
 .cart{
     position: absolute;
